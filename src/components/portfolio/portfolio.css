@@ -1,0 +1,13 @@
+/* .portfolio-thumbnail{
+    background-color:#424143;
+    height: 389px;
+} */
+.portfolio-thumbnail{
+    overflow: hidden;
+}
+.port-img{
+    transition: all 0.4s ease-in-out;
+}
+.port-img:hover{
+    transform: scale(1.2);
+}

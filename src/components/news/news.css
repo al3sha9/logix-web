@@ -1,0 +1,59 @@
+.bg-dark-news{
+    background-color:#424143;
+    
+}
+.bg-dark-news h3{
+    font-style: normal;
+font-weight: 700;
+font-size: 20px;
+line-height: 30px;
+color: #4DB748;
+text-transform: uppercase;
+font-family: 'Poppins', sans-serif;
+
+}
+.bg-dark-news p{
+    font-style: normal;
+font-weight: 300;
+font-size: 16px;
+line-height: 24px;
+font-family: 'Poppins', sans-serif;
+
+
+letter-spacing: 1px;
+text-transform: capitalize;
+
+color: #FCFEFD;
+}
+.bg-dark-news a{
+    font-style: normal;
+    font-weight: 300;
+    font-size: 16px;
+    line-height: 24px;
+    font-family: 'Poppins', sans-serif;
+    
+    
+    letter-spacing: 1px;
+    text-transform: capitalize;
+    
+    color: #FCFEFD;
+    cursor: pointer;
+}
+.seemore{
+    background-color: #424143;
+    color: #FCFEFD;
+}
+.seemore a{
+    font-style: normal;
+font-weight: 700;
+font-size: 20px;
+line-height: 30px;
+/* identical to box height */
+
+text-transform: uppercase;
+
+font-family: 'Poppins', sans-serif;
+text-decoration: none;
+
+color: #FCFEFD;
+}

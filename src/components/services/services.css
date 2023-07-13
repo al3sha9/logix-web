@@ -1,0 +1,22 @@
+.serif-1{
+font-family: 'Poppins', sans-serif;
+
+}
+.box-serve h2{
+  font-family: 'ubuntu', sans-serif;
+  font-weight: 500;
+}
+  .box-serve:hover{
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+    transition: all 0.1s ease-in-out;
+  }
+
+
+  @media screen and (max-width: 950px) {
+    
+    .box-serve{
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+      
+    }
+  }
+  

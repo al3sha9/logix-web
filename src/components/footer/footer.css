@@ -1,0 +1,36 @@
+.footer{
+    background-image: url(../../assets/footer.png);
+    background-size: cover;
+}
+.foot-a .last{
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 13px;
+font-family: 'Poppins', sans-serif;
+text-decoration: none;
+color: #fff;
+
+border-bottom: 2px solid transparent;
+}
+.foot-a .last:hover{
+    border-bottom: 2px solid #64CD5F;
+    transition: all 0.4s ease-in-out;
+}
+.green{
+    color: #64CD5F !important;
+}
+.social-ico{
+    width: 35px;
+height: 35.27px;
+-webkit-filter: grayscale(100%); /* Safari 6.0 - 9.0 */
+  filter: grayscale(100%);
+}
+.ent-text h4{
+font-family: 'Poppins', sans-serif;
+color: #64CD5F;
+font-style: normal;
+font-weight: 600;
+font-size: 18px;
+line-height: 13px;;
+}

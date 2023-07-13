@@ -1,0 +1,132 @@
+.team-text{
+    
+font-family: 'Poppins', sans-serif;
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 24px;
+text-align: center;
+}
+
+.team-para{
+    background-color: #424143;
+}
+.team-para a{
+    color: #64CD5F;
+    font-family: 'Poppins', sans-serif;
+font-style: normal;
+font-weight: 600;
+text-decoration: none;
+font-size: 1.1rem;
+cursor: pointer;
+}
+.team-para h5{
+    font-family: 'Poppins', sans-serif;
+font-style: normal;
+font-weight: 400;
+font-size: 1rem;
+color: #FCFEFD;
+}
+.modal-content{
+    background-color: #424143;
+    color: #FCFEFD;
+}
+.modal-header{
+    border: none;
+}
+
+.card-imgg{
+    width: 251.72px;
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+border-radius: 15px;
+}
+
+.card-title1 h2{
+    font-style: normal;
+font-weight: 600;
+font-size: 40px;
+line-height: 29px;
+color: #64CD5F;
+}
+.card-title1 .title-botom{
+    font-weight: 400;
+font-size: 16px;
+font-family: 'Poppins', sans-serif;
+
+line-height: 24px;
+}
+.card-paraa{
+    font-family: 'Poppins', sans-serif;
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 24px;
+}
+.card-social{
+    box-shadow: 0px -6px 18px rgba(0, 0, 0, 0.24);
+    border-radius: 30px;
+}
+.fa-facebook:hover{
+    background-color: #3b5998;
+}
+.fa-instagram:hover{
+    background: #f09433; 
+    background: -moz-linear-gradient(45deg, #f09433 0%, #e6683c 25%, #dc2743 50%, #cc2366 75%, #bc1888 100%); 
+    background: -webkit-linear-gradient(45deg, #f09433 0%,#e6683c 25%,#dc2743 50%,#cc2366 75%,#bc1888 100%); 
+    background: linear-gradient(45deg, #f09433 0%,#e6683c 25%,#dc2743 50%,#cc2366 75%,#bc1888 100%); 
+    filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#f09433', endColorstr='#bc1888',GradientType=1 );
+}
+.card-social a{
+    color: #FCFEFD;
+   
+border-radius: 0px;
+
+}
+.fa-linkedin:hover{
+    background-color: #0e76a8;
+}
+.fa-behance:hover{
+    background-color: #053eff;
+}
+.fa-github:hover{
+    background-color: #171515;
+}
+.card-social span{
+    padding-top: 5px;
+    height: 24px;
+    border-radius: 50%;
+width: 24px;
+}
+.modal-content{
+    margin: auto;
+    width: 85%;
+}
+
+
+.team-img{
+    overflow: hidden;
+}
+.team-imgg{
+    transition: all 0.4s ease-in-out;
+}
+.team-imgg:hover{
+    transform: scale(1.2);
+}
+@media screen and (max-width: 950px) {
+    .team-text {
+      /* width: 450px; */
+      margin-bottom: 50px; /* The width is 100%, when the viewport is 800px or smaller */
+    }
+    .owl-caorusel{
+        margin-top: 60px;
+    }
+    .modal-content{
+        width: 100%;
+    }
+    .modal-body{
+        text-align: center;
+    }
+    .team-a{
+
+    }
+}

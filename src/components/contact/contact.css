@@ -1,0 +1,119 @@
+.contact{
+    background-color: #424143;
+}
+.text-start{
+    color: #fff;
+}
+.text-start h2{
+    font-family: 'Poppins', sans-serif;
+    font-style: normal;
+font-weight: 600;
+font-size: 33px;
+line-height: 50px;
+}
+.text-start p{
+    font-family: 'Poppins', sans-serif;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 17px;
+    line-height: 15px;
+}
+.form-top{
+    color: #6D6D6D;
+    
+
+}
+.cover{
+    background-color: #424143;
+    box-shadow: 5px 10px 43px 0px #00000059;
+    height: 413px;
+}
+.form-contact input{
+    background-color: transparent;
+    border: none;
+    border-bottom: 2px solid #64CD5F;
+    border-radius: 0;
+    color: #64CD5F;
+}
+.form-contact label{
+    color: #fff;
+}
+.form-contact input:focus{
+    background-color: #333;
+    border-bottom-color: #fff;
+}
+.form-contact textarea{
+    background-color: transparent;
+    border: none;
+    border-bottom: 2px solid #64CD5F;
+    border-radius: 0;
+    resize: none;
+}
+.form-contact textarea:focus{
+    background-color: #333;
+    border-bottom-color: #fff;
+}
+.form-contact button{
+    background: #4DB748;
+border-radius: 20px;
+border: none;
+    font-family: 'Poppins', sans-serif;
+}
+.form-contact button:hover{
+    box-shadow: 5px 10px 43px 0px #00000059;
+
+}
+.gb-area{
+    color: #fff;
+    background-color: #64CD5F;
+    height: 413px;
+}
+.gb-area h3{
+    font-family: 'Poppins', sans-serif;
+
+    font-style: normal;
+font-weight: 400;
+font-size: 17px;
+line-height: 26px;
+}
+.contact .col-md-3, .col-md-5, .col-md-4{
+    padding-left: 0 !important;
+    padding-right: 0 !important;
+}
+.font-aw{
+    font-size: 24px;
+}
+.font-a{
+    font-size: 16px;
+}
+.g-text{
+font-style: normal;
+    font-family: 'Poppins', sans-serif;
+    font-weight: 400;
+font-size: 15px;
+line-height: 20px;
+text-decoration: none;
+}
+.g-t{
+    font-family: 'Poppins', sans-serif;
+    font-weight: 400;
+font-size: 15px;
+line-height: 20px;
+cursor: pointer;
+color: #fff !important;
+text-decoration: none;
+}
+.frame1{
+    width: 440px;
+    height: 413px;
+}
+.btn-con:hover{
+    background-color: #4DB748;
+    border: none;
+    box-shadow: 0 10px 10px -10px rgb(0 0 0 / 50%);
+}
+@media screen and (max-width: 950px) {
+    .frame1{
+        width: 100%;
+    }
+  }

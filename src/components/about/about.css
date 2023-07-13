@@ -1,0 +1,19 @@
+.about-head h2{
+    font-size: 38px;
+font-weight: 700;
+line-height: 57px;
+font-family: 'Poppins', sans-serif;
+color: #64CD5F;
+}
+.about-p{
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 24px;
+    text-align: justify;
+font-family: 'Poppins', sans-serif;
+color: #424143;
+}
+.about-side .img-side{
+height: 363px;
+}
